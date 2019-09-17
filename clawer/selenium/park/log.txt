@@ -1,0 +1,174 @@
+2019-08-30 11:14:04,946 - ParkService.py[line:41] - INFO: 现在的页码：1
+2019-08-30 11:15:57,736 - ParkService.py[line:69] - INFO: park_name 京东（香河）环保产业园;address:WEB：http://hb.cnipai.com/park/8425/
+2019-08-30 11:19:01,408 - ParkService.py[line:41] - INFO: 现在的页码：1
+2019-08-30 11:19:22,864 - ParkService.py[line:69] - INFO: park_name 京东（香河）环保产业园;address:WEB：http://hb.cnipai.com/park/8425/
+2019-08-30 13:36:06,766 - ParkService.py[line:41] - INFO: 现在的页码：1
+2019-08-30 13:36:27,949 - ParkService.py[line:69] - INFO: park_name 京东（香河）环保产业园;address:WEB：http://hb.cnipai.com/park/8425/
+2019-08-30 13:48:07,625 - ParkService.py[line:41] - INFO: 现在的页码：1
+2019-08-30 13:48:28,884 - ParkService.py[line:69] - INFO: park_name 京东（香河）环保产业园;address:WEB：http://hb.cnipai.com/park/8425/
+2019-08-30 13:50:52,819 - ParkService.py[line:69] - INFO: park_name 北方循环经济示范园区;address:WEB：http://hb.cnipai.com/park/8452/
+2019-08-30 13:52:40,061 - ParkService.py[line:41] - INFO: 现在的页码：1
+2019-08-30 13:53:04,374 - ParkService.py[line:69] - INFO: park_name 京东（香河）环保产业园;address:WEB：http://hb.cnipai.com/park/8425/
+2019-08-30 13:55:30,581 - ParkService.py[line:41] - INFO: 现在的页码：1
+2019-08-30 13:55:54,804 - ParkService.py[line:69] - INFO: park_name 京东（香河）环保产业园;address:WEB：http://hb.cnipai.com/park/8425/
+2019-08-30 14:04:46,283 - ParkService.py[line:41] - INFO: 现在的页码：1
+2019-08-30 14:05:09,421 - ParkService.py[line:69] - INFO: park_name 京东（香河）环保产业园;address:WEB：http://hb.cnipai.com/park/8425/
+2019-08-30 14:08:40,980 - ParkService.py[line:42] - INFO: 现在的页码：1
+2019-08-30 14:09:03,647 - ParkService.py[line:70] - INFO: park_name 京东（香河）环保产业园;address:WEB：http://hb.cnipai.com/park/8425/
+2019-08-30 14:22:39,638 - ParkService.py[line:42] - INFO: 现在的页码：1
+2019-08-30 14:23:05,110 - ParkService.py[line:70] - INFO: park_name 京东（香河）环保产业园;address:WEB：http://hb.cnipai.com/park/8425/
+2019-08-30 14:25:03,294 - ParkService.py[line:42] - INFO: 现在的页码：1
+2019-08-30 14:25:24,472 - ParkService.py[line:70] - INFO: park_name 京东（香河）环保产业园;address:WEB：http://hb.cnipai.com/park/8425/
+2019-08-30 14:28:04,779 - ParkService.py[line:42] - INFO: 现在的页码：1
+2019-08-30 14:28:26,004 - ParkService.py[line:70] - INFO: park_name 京东（香河）环保产业园;address:WEB：http://hb.cnipai.com/park/8425/
+2019-08-30 14:32:24,693 - ParkService.py[line:42] - INFO: 现在的页码：1
+2019-08-30 14:32:46,036 - ParkService.py[line:70] - INFO: park_name 京东（香河）环保产业园;address:WEB：http://hb.cnipai.com/park/8425/
+2019-08-30 14:34:47,530 - ParkService.py[line:42] - INFO: 现在的页码：1
+2019-08-30 14:35:09,128 - ParkService.py[line:70] - INFO: park_name 京东（香河）环保产业园;address:WEB：http://hb.cnipai.com/park/8425/
+2019-08-30 14:35:37,720 - ParkService.py[line:70] - INFO: park_name 北方循环经济示范园区;address:WEB：http://hb.cnipai.com/park/8452/
+2019-08-30 14:44:22,539 - ParkService.py[line:42] - INFO: 现在的页码：1
+2019-08-30 14:44:43,738 - ParkService.py[line:70] - INFO: park_name 京东（香河）环保产业园;address:WEB：http://hb.cnipai.com/park/8425/
+2019-08-30 15:44:34,063 - ParkService.py[line:42] - INFO: 现在的页码：1
+2019-08-30 15:44:55,341 - ParkService.py[line:70] - INFO: park_name 京东（香河）环保产业园;address:WEB：http://hb.cnipai.com/park/8425/
+2019-08-30 15:45:20,835 - ParkService.py[line:70] - INFO: park_name 北方循环经济示范园区;address:WEB：http://hb.cnipai.com/park/8452/
+2019-08-30 15:45:46,171 - ParkService.py[line:70] - INFO: park_name 河北玉田工业园区;address:WEB：http://hb.cnipai.com/park/8444/
+2019-08-30 15:50:54,334 - ParkService.py[line:42] - INFO: 现在的页码：1
+2019-08-30 15:51:16,074 - ParkService.py[line:70] - INFO: park_name 京东（香河）环保产业园;address:WEB：http://hb.cnipai.com/park/8425/
+2019-08-30 15:51:41,166 - ParkService.py[line:70] - INFO: park_name 北方循环经济示范园区;address:WEB：http://hb.cnipai.com/park/8452/
+2019-08-30 15:52:06,340 - ParkService.py[line:70] - INFO: park_name 河北玉田工业园区;address:WEB：http://hb.cnipai.com/park/8444/
+2019-08-30 15:52:31,660 - ParkService.py[line:70] - INFO: park_name 青县经济开发区;address:WEB：http://hb.cnipai.com/park/6328/
+2019-08-30 15:52:58,002 - ParkService.py[line:70] - INFO: park_name 正定新区;address:WEB：http://hb.cnipai.com/park/8423/
+2019-08-30 15:53:23,169 - ParkService.py[line:70] - INFO: park_name 涿鹿科技园;address:WEB：http://hb.cnipai.com/park/8396/
+2019-08-30 15:53:48,532 - ParkService.py[line:70] - INFO: park_name 河北青县正东工业园区;address:WEB：http://hb.cnipai.com/park/8417/
+2019-08-30 15:54:14,404 - ParkService.py[line:70] - INFO: park_name 沙河市金马岭工业园区;address:WEB：http://hb.cnipai.com/park/8400/
+2019-08-30 15:54:39,677 - ParkService.py[line:70] - INFO: park_name 中兴北方产业基地;address:WEB：http://hb.cnipai.com/park/8399/
+2019-08-30 15:55:04,850 - ParkService.py[line:70] - INFO: park_name 秦皇岛北部工业区;address:WEB：http://hb.cnipai.com/park/8398/
+2019-08-30 15:58:26,713 - ParkService.py[line:42] - INFO: 现在的页码：1
+2019-08-30 15:58:48,130 - ParkService.py[line:70] - INFO: park_name 京东（香河）环保产业园;address:WEB：http://hb.cnipai.com/park/8425/
+2019-08-30 15:59:14,217 - ParkService.py[line:70] - INFO: park_name 北方循环经济示范园区;address:WEB：http://hb.cnipai.com/park/8452/
+2019-08-30 15:59:39,864 - ParkService.py[line:70] - INFO: park_name 河北玉田工业园区;address:WEB：http://hb.cnipai.com/park/8444/
+2019-08-30 16:00:05,125 - ParkService.py[line:70] - INFO: park_name 青县经济开发区;address:WEB：http://hb.cnipai.com/park/6328/
+2019-08-30 16:00:30,798 - ParkService.py[line:70] - INFO: park_name 正定新区;address:WEB：http://hb.cnipai.com/park/8423/
+2019-08-30 16:00:56,007 - ParkService.py[line:70] - INFO: park_name 涿鹿科技园;address:WEB：http://hb.cnipai.com/park/8396/
+2019-08-30 16:01:21,145 - ParkService.py[line:70] - INFO: park_name 河北青县正东工业园区;address:WEB：http://hb.cnipai.com/park/8417/
+2019-08-30 16:01:46,681 - ParkService.py[line:70] - INFO: park_name 沙河市金马岭工业园区;address:WEB：http://hb.cnipai.com/park/8400/
+2019-08-30 16:02:11,801 - ParkService.py[line:70] - INFO: park_name 中兴北方产业基地;address:WEB：http://hb.cnipai.com/park/8399/
+2019-08-30 16:02:36,891 - ParkService.py[line:70] - INFO: park_name 秦皇岛北部工业区;address:WEB：http://hb.cnipai.com/park/8398/
+2019-08-30 16:02:56,910 - ParkService.py[line:42] - INFO: 现在的页码：2
+2019-08-30 16:03:21,151 - ParkService.py[line:70] - INFO: park_name 温洼东聚鑫工业区;address:WEB：http://hb.cnipai.com/park/8397/
+2019-08-30 16:03:46,272 - ParkService.py[line:70] - INFO: park_name 万邦（廊坊）产业园;address:WEB：http://hb.cnipai.com/park/8395/
+2019-08-30 16:04:12,329 - ParkService.py[line:70] - INFO: park_name 石家庄小商品加工制造园;address:WEB：http://hb.cnipai.com/park/8394/
+2019-08-30 16:04:37,398 - ParkService.py[line:70] - INFO: park_name 万庄国际总部生态城;address:WEB：http://hb.cnipai.com/park/8393/
+2019-08-30 16:05:02,656 - ParkService.py[line:70] - INFO: park_name 天山国际创业基地;address:WEB：http://hb.cnipai.com/park/8392/
+2019-08-30 16:05:27,841 - ParkService.py[line:70] - INFO: park_name 河北永年工业园区;address:WEB：http://hb.cnipai.com/park/8111/
+2019-08-30 16:05:53,726 - ParkService.py[line:70] - INFO: park_name 大厂工业园区;address:WEB：http://hb.cnipai.com/park/8101/
+2019-08-30 16:06:18,921 - ParkService.py[line:70] - INFO: park_name 大城县现代制造业工业园区;address:WEB：http://hb.cnipai.com/park/6227/
+2019-08-30 16:07:32,455 - ParkService.py[line:42] - INFO: 现在的页码：1
+2019-08-30 16:07:54,342 - ParkService.py[line:70] - INFO: park_name 京东（香河）环保产业园;address:WEB：http://hb.cnipai.com/park/8425/
+2019-08-30 16:08:19,833 - ParkService.py[line:70] - INFO: park_name 北方循环经济示范园区;address:WEB：http://hb.cnipai.com/park/8452/
+2019-08-30 16:08:45,917 - ParkService.py[line:70] - INFO: park_name 河北玉田工业园区;address:WEB：http://hb.cnipai.com/park/8444/
+2019-08-30 16:09:10,987 - ParkService.py[line:70] - INFO: park_name 青县经济开发区;address:WEB：http://hb.cnipai.com/park/6328/
+2019-08-30 16:09:36,295 - ParkService.py[line:70] - INFO: park_name 正定新区;address:WEB：http://hb.cnipai.com/park/8423/
+2019-08-30 16:10:01,475 - ParkService.py[line:70] - INFO: park_name 涿鹿科技园;address:WEB：http://hb.cnipai.com/park/8396/
+2019-08-30 16:10:26,697 - ParkService.py[line:70] - INFO: park_name 河北青县正东工业园区;address:WEB：http://hb.cnipai.com/park/8417/
+2019-08-30 16:10:51,784 - ParkService.py[line:70] - INFO: park_name 沙河市金马岭工业园区;address:WEB：http://hb.cnipai.com/park/8400/
+2019-08-30 16:11:16,906 - ParkService.py[line:70] - INFO: park_name 中兴北方产业基地;address:WEB：http://hb.cnipai.com/park/8399/
+2019-08-30 16:11:42,003 - ParkService.py[line:70] - INFO: park_name 秦皇岛北部工业区;address:WEB：http://hb.cnipai.com/park/8398/
+2019-08-30 16:12:02,390 - ParkService.py[line:42] - INFO: 现在的页码：2
+2019-08-30 16:12:26,632 - ParkService.py[line:70] - INFO: park_name 温洼东聚鑫工业区;address:WEB：http://hb.cnipai.com/park/8397/
+2019-08-30 16:12:52,022 - ParkService.py[line:70] - INFO: park_name 万邦（廊坊）产业园;address:WEB：http://hb.cnipai.com/park/8395/
+2019-08-30 16:13:17,538 - ParkService.py[line:70] - INFO: park_name 石家庄小商品加工制造园;address:WEB：http://hb.cnipai.com/park/8394/
+2019-08-30 16:13:42,674 - ParkService.py[line:70] - INFO: park_name 万庄国际总部生态城;address:WEB：http://hb.cnipai.com/park/8393/
+2019-08-30 16:14:08,406 - ParkService.py[line:70] - INFO: park_name 天山国际创业基地;address:WEB：http://hb.cnipai.com/park/8392/
+2019-08-30 16:14:33,980 - ParkService.py[line:70] - INFO: park_name 河北永年工业园区;address:WEB：http://hb.cnipai.com/park/8111/
+2019-08-30 16:14:59,357 - ParkService.py[line:70] - INFO: park_name 大厂工业园区;address:WEB：http://hb.cnipai.com/park/8101/
+2019-08-30 16:15:25,991 - ParkService.py[line:70] - INFO: park_name 大城县现代制造业工业园区;address:WEB：http://hb.cnipai.com/park/6227/
+2019-08-30 16:15:51,363 - ParkService.py[line:70] - INFO: park_name 河北邯郸工业园区;address:WEB：http://hb.cnipai.com/park/8100/
+2019-08-30 16:16:16,936 - ParkService.py[line:70] - INFO: park_name 山海关临港产业园区;address:WEB：http://hb.cnipai.com/park/8000/
+2019-08-30 16:16:32,050 - ParkService.py[line:179] - INFO: 保存数据，一个省份完成hebei
+2019-08-30 17:17:50,513 - ParkService.py[line:42] - INFO: 现在的页码：1
+2019-08-30 17:17:52,422 - ParkService.py[line:42] - INFO: 现在的页码：1
+2019-08-30 17:18:11,798 - ParkService.py[line:71] - INFO: park_name 京东（香河）环保产业园;address:WEB：http://hb.cnipai.com/park/8425/
+2019-08-30 17:18:14,755 - ParkService.py[line:71] - INFO: park_name 深圳福田保税区;address:WEB：http://gd.cnipai.com/park/8293/
+2019-08-30 17:18:42,274 - ParkService.py[line:71] - INFO: park_name 北方循环经济示范园区;address:WEB：http://hb.cnipai.com/park/8452/
+2019-08-30 17:18:45,012 - ParkService.py[line:71] - INFO: park_name 广东省英德市英红工业园区;address:WEB：http://gd.cnipai.com/park/8292/
+2019-08-30 17:19:07,564 - ParkService.py[line:71] - INFO: park_name 河北玉田工业园区;address:WEB：http://hb.cnipai.com/park/8444/
+2019-08-30 17:19:16,398 - ParkService.py[line:71] - INFO: park_name 中国纳米碳酸钙产业基地;address:WEB：http://gd.cnipai.com/park/8291/
+2019-08-30 17:19:32,731 - ParkService.py[line:71] - INFO: park_name 青县经济开发区;address:WEB：http://hb.cnipai.com/park/6328/
+2019-08-30 17:19:41,671 - ParkService.py[line:71] - INFO: park_name 龙溪键达电镀工业园;address:WEB：http://gd.cnipai.com/park/8290/
+2019-08-30 17:20:02,899 - ParkService.py[line:71] - INFO: park_name 正定新区;address:WEB：http://hb.cnipai.com/park/8423/
+2019-08-30 17:20:07,032 - ParkService.py[line:71] - INFO: park_name 东莞（惠州）产业转移工业园;address:WEB：http://gd.cnipai.com/park/8289/
+2019-08-30 17:20:28,236 - ParkService.py[line:71] - INFO: park_name 涿鹿科技园;address:WEB：http://hb.cnipai.com/park/8396/
+2019-08-30 17:20:32,278 - ParkService.py[line:71] - INFO: park_name 友利创业产业园;address:WEB：http://gd.cnipai.com/park/8288/
+2019-08-30 17:20:58,540 - ParkService.py[line:71] - INFO: park_name 河北青县正东工业园区;address:WEB：http://hb.cnipai.com/park/8417/
+2019-08-30 17:21:02,406 - ParkService.py[line:71] - INFO: park_name 韶关市科技企业创业园;address:WEB：http://gd.cnipai.com/park/8287/
+2019-08-30 17:21:23,836 - ParkService.py[line:71] - INFO: park_name 沙河市金马岭工业园区;address:WEB：http://hb.cnipai.com/park/8400/
+2019-08-30 17:21:27,570 - ParkService.py[line:71] - INFO: park_name 深圳硅谷大学城创业园;address:WEB：http://gd.cnipai.com/park/8286/
+2019-08-30 17:21:49,046 - ParkService.py[line:71] - INFO: park_name 中兴北方产业基地;address:WEB：http://hb.cnipai.com/park/8399/
+2019-08-30 17:21:53,272 - ParkService.py[line:71] - INFO: park_name 深圳市留学人员（龙岗）创业园;address:WEB：http://gd.cnipai.com/park/8285/
+2019-08-30 17:22:14,326 - ParkService.py[line:71] - INFO: park_name 秦皇岛北部工业区;address:WEB：http://hb.cnipai.com/park/8398/
+2019-08-30 17:22:18,707 - ParkService.py[line:71] - INFO: park_name 东莞市留学人员（博士）创业园;address:WEB：http://gd.cnipai.com/park/8284/
+2019-08-30 17:22:29,388 - ParkService.py[line:183] - INFO: 保存数据，一个省份完成河北省
+2019-08-30 17:22:34,875 - ParkService.py[line:183] - INFO: 保存数据，一个省份完成广东省
+2019-08-30 17:25:34,029 - ParkService.py[line:42] - INFO: 现在的页码：1
+2019-08-30 17:25:35,759 - ParkService.py[line:42] - INFO: 现在的页码：1
+2019-08-30 17:25:55,382 - ParkService.py[line:71] - INFO: park_name 京东（香河）环保产业园;address:WEB：http://hb.cnipai.com/park/8425/
+2019-08-30 17:25:57,776 - ParkService.py[line:71] - INFO: park_name 深圳福田保税区;address:WEB：http://gd.cnipai.com/park/8293/
+2019-08-30 17:26:20,940 - ParkService.py[line:71] - INFO: park_name 北方循环经济示范园区;address:WEB：http://hb.cnipai.com/park/8452/
+2019-08-30 17:26:23,191 - ParkService.py[line:71] - INFO: park_name 广东省英德市英红工业园区;address:WEB：http://gd.cnipai.com/park/8292/
+2019-08-30 17:30:10,836 - ParkService.py[line:42] - INFO: 现在的页码：1
+2019-08-30 17:30:39,560 - ParkService.py[line:71] - INFO: park_name 京东（香河）环保产业园;address:WEB：http://hb.cnipai.com/park/8425/
+2019-08-30 17:31:23,749 - ParkService.py[line:42] - INFO: 现在的页码：1
+2019-08-30 17:31:25,601 - ParkService.py[line:42] - INFO: 现在的页码：1
+2019-08-30 17:31:45,036 - ParkService.py[line:71] - INFO: park_name 京东（香河）环保产业园;address:WEB：http://hb.cnipai.com/park/8425/
+2019-08-30 17:31:46,861 - ParkService.py[line:71] - INFO: park_name 深圳福田保税区;address:WEB：http://gd.cnipai.com/park/8293/
+2019-08-30 17:32:11,204 - ParkService.py[line:71] - INFO: park_name 北方循环经济示范园区;address:WEB：http://hb.cnipai.com/park/8452/
+2019-08-30 17:32:12,826 - ParkService.py[line:71] - INFO: park_name 广东省英德市英红工业园区;address:WEB：http://gd.cnipai.com/park/8292/
+2019-08-30 17:32:48,963 - ParkService.py[line:42] - INFO: 现在的页码：1
+2019-08-30 17:33:12,712 - ParkService.py[line:71] - INFO: park_name 京东（香河）环保产业园;address:WEB：http://hb.cnipai.com/park/8425/
+2019-08-30 17:38:35,832 - ParkService.py[line:42] - INFO: 现在的页码：1
+2019-08-30 17:38:37,225 - ParkService.py[line:42] - INFO: 现在的页码：1
+2019-08-30 17:38:57,046 - ParkService.py[line:71] - INFO: park_name 深圳福田保税区;address:WEB：http://gd.cnipai.com/park/8293/
+2019-08-30 17:38:59,162 - ParkService.py[line:71] - INFO: park_name 京东（香河）环保产业园;address:WEB：http://hb.cnipai.com/park/8425/
+2019-08-30 17:39:07,306 - ParkService.py[line:71] - INFO: park_name 广东省英德市英红工业园区;address:WEB：http://gd.cnipai.com/park/8292/
+2019-08-30 17:39:09,377 - ParkService.py[line:71] - INFO: park_name 北方循环经济示范园区;address:WEB：http://hb.cnipai.com/park/8452/
+2019-08-30 17:39:17,495 - ParkService.py[line:71] - INFO: park_name 中国纳米碳酸钙产业基地;address:WEB：http://gd.cnipai.com/park/8291/
+2019-08-30 17:39:19,558 - ParkService.py[line:71] - INFO: park_name 河北玉田工业园区;address:WEB：http://hb.cnipai.com/park/8444/
+2019-08-30 17:39:27,674 - ParkService.py[line:71] - INFO: park_name 龙溪键达电镀工业园;address:WEB：http://gd.cnipai.com/park/8290/
+2019-08-30 17:39:29,788 - ParkService.py[line:71] - INFO: park_name 青县经济开发区;address:WEB：http://hb.cnipai.com/park/6328/
+2019-08-30 17:39:37,836 - ParkService.py[line:71] - INFO: park_name 东莞（惠州）产业转移工业园;address:WEB：http://gd.cnipai.com/park/8289/
+2019-08-30 17:39:39,998 - ParkService.py[line:71] - INFO: park_name 正定新区;address:WEB：http://hb.cnipai.com/park/8423/
+2019-08-30 17:39:48,004 - ParkService.py[line:71] - INFO: park_name 友利创业产业园;address:WEB：http://gd.cnipai.com/park/8288/
+2019-08-30 17:39:50,209 - ParkService.py[line:71] - INFO: park_name 涿鹿科技园;address:WEB：http://hb.cnipai.com/park/8396/
+2019-08-30 17:39:58,263 - ParkService.py[line:71] - INFO: park_name 韶关市科技企业创业园;address:WEB：http://gd.cnipai.com/park/8287/
+2019-08-30 17:40:00,417 - ParkService.py[line:71] - INFO: park_name 河北青县正东工业园区;address:WEB：http://hb.cnipai.com/park/8417/
+2019-08-30 17:40:08,560 - ParkService.py[line:71] - INFO: park_name 深圳硅谷大学城创业园;address:WEB：http://gd.cnipai.com/park/8286/
+2019-08-30 17:40:10,607 - ParkService.py[line:71] - INFO: park_name 沙河市金马岭工业园区;address:WEB：http://hb.cnipai.com/park/8400/
+2019-08-30 17:40:18,813 - ParkService.py[line:71] - INFO: park_name 深圳市留学人员（龙岗）创业园;address:WEB：http://gd.cnipai.com/park/8285/
+2019-08-30 17:40:20,916 - ParkService.py[line:71] - INFO: park_name 中兴北方产业基地;address:WEB：http://hb.cnipai.com/park/8399/
+2019-08-30 17:40:29,054 - ParkService.py[line:71] - INFO: park_name 东莞市留学人员（博士）创业园;address:WEB：http://gd.cnipai.com/park/8284/
+2019-08-30 17:40:29,106 - ParkService.py[line:183] - INFO: 保存数据，一个省份完成广东省
+2019-09-02 08:31:02,158 - ParkService.py[line:42] - INFO: 现在的页码：1
+2019-09-02 08:31:02,158 - ParkService.py[line:42] - INFO: 现在的页码：1
+2019-09-02 08:31:24,265 - ParkService.py[line:71] - INFO: park_name 京东（香河）环保产业园;address:WEB：http://hb.cnipai.com/park/8425/
+2019-09-02 08:31:31,939 - ParkService.py[line:71] - INFO: park_name 深圳福田保税区;address:WEB：http://gd.cnipai.com/park/8293/
+2019-09-02 08:31:34,674 - ParkService.py[line:71] - INFO: park_name 北方循环经济示范园区;address:WEB：http://hb.cnipai.com/park/8452/
+2019-09-02 08:31:42,210 - ParkService.py[line:71] - INFO: park_name 广东省英德市英红工业园区;address:WEB：http://gd.cnipai.com/park/8292/
+2019-09-02 08:31:44,985 - ParkService.py[line:71] - INFO: park_name 河北玉田工业园区;address:WEB：http://hb.cnipai.com/park/8444/
+2019-09-02 08:31:52,371 - ParkService.py[line:71] - INFO: park_name 中国纳米碳酸钙产业基地;address:WEB：http://gd.cnipai.com/park/8291/
+2019-09-02 08:31:55,197 - ParkService.py[line:71] - INFO: park_name 青县经济开发区;address:WEB：http://hb.cnipai.com/park/6328/
+2019-09-02 08:32:02,672 - ParkService.py[line:71] - INFO: park_name 龙溪键达电镀工业园;address:WEB：http://gd.cnipai.com/park/8290/
+2019-09-02 08:32:05,452 - ParkService.py[line:71] - INFO: park_name 正定新区;address:WEB：http://hb.cnipai.com/park/8423/
+2019-09-02 08:32:12,966 - ParkService.py[line:71] - INFO: park_name 东莞（惠州）产业转移工业园;address:WEB：http://gd.cnipai.com/park/8289/
+2019-09-02 08:32:15,679 - ParkService.py[line:71] - INFO: park_name 涿鹿科技园;address:WEB：http://hb.cnipai.com/park/8396/
+2019-09-02 08:32:23,288 - ParkService.py[line:71] - INFO: park_name 友利创业产业园;address:WEB：http://gd.cnipai.com/park/8288/
+2019-09-02 08:32:25,924 - ParkService.py[line:71] - INFO: park_name 河北青县正东工业园区;address:WEB：http://hb.cnipai.com/park/8417/
+2019-09-02 08:32:33,464 - ParkService.py[line:71] - INFO: park_name 韶关市科技企业创业园;address:WEB：http://gd.cnipai.com/park/8287/
+2019-09-02 08:32:36,217 - ParkService.py[line:71] - INFO: park_name 沙河市金马岭工业园区;address:WEB：http://hb.cnipai.com/park/8400/
+2019-09-02 08:32:43,753 - ParkService.py[line:71] - INFO: park_name 深圳硅谷大学城创业园;address:WEB：http://gd.cnipai.com/park/8286/
+2019-09-02 08:32:46,460 - ParkService.py[line:71] - INFO: park_name 中兴北方产业基地;address:WEB：http://hb.cnipai.com/park/8399/
+2019-09-02 08:32:53,982 - ParkService.py[line:71] - INFO: park_name 深圳市留学人员（龙岗）创业园;address:WEB：http://gd.cnipai.com/park/8285/
+2019-09-02 08:32:56,756 - ParkService.py[line:71] - INFO: park_name 秦皇岛北部工业区;address:WEB：http://hb.cnipai.com/park/8398/
+2019-09-02 08:32:56,808 - ParkService.py[line:183] - INFO: 保存数据，一个省份完成河北省
+2019-09-02 08:33:04,282 - ParkService.py[line:71] - INFO: park_name 东莞市留学人员（博士）创业园;address:WEB：http://gd.cnipai.com/park/8284/
+2019-09-02 08:33:04,332 - ParkService.py[line:183] - INFO: 保存数据，一个省份完成广东省

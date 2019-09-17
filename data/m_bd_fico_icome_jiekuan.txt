@@ -1,0 +1,13 @@
+bukrs               	string              	                    
+hkont               	string              	                    
+belnr               	string              	                    
+gjahr               	string              	                    
+monat               	string              	                    
+xblnr               	string              	                    
+blart               	string              	                    
+shkzg               	string              	                    
+pernr               	string              	                    
+wrbtr               	double              	                    
+sgtxt               	string              	                    
+augbl               	string              	                    
+zuonr               	string
