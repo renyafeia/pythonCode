@@ -5,9 +5,12 @@ gjahr               	string
 monat               	string              	                    
 xblnr               	string              	                    
 blart               	string              	                    
+budat               	string              	                    
 shkzg               	string              	                    
 pernr               	string              	                    
 wrbtr               	double              	                    
 sgtxt               	string              	                    
 augbl               	string              	                    
-zuonr               	string
+zuonr               	string              	                    
+buzei               	string              	                    
+update_time         	string 

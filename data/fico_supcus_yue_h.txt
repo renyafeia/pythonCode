@@ -1,0 +1,9 @@
+bukrs               	string              	                    
+comp_code_txt       	string              	                    
+cpmo_cop            	string              	                    
+cpmo_cop_txt        	string              	                    
+xa_reig             	string              	                    
+xa_reig_txt         	string              	                    
+lifnr               	string              	                    
+name1               	string              	                    
+yue                 	double 

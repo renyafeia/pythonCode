@@ -9,4 +9,5 @@ buzei               	string
 sgtxt               	string              	                    
 xblnr               	string              	                    
 pernr               	string              	                    
-zuonr               	string
+zuonr               	string              	                    
+update_time         	string
